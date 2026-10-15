@@ -57,14 +57,6 @@
   </picture>
 </p>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,ts,py,nodejs,nextjs,react,vite,sqlite,postgres,redis,docker,linux,cloudflare,workers,fastapi,nginx,git,github,vscode&perline=10&theme=dark" alt="tech stack" /></a>
-
-</div>
-
 ## 📊 Stats
 
 <table align="center">
