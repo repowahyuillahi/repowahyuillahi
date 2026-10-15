@@ -1,7 +1,7 @@
-<svg width="440" height="200" viewBox="0 0 440 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="400" height="180" viewBox="0 0 400 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img">
 <style>*{animation:none!important}.stagger{opacity:1!important}[style*="opacity:0"],[style*="opacity: 0"]{opacity:1!important}</style>
-<rect x="0.5" y="0.5" width="439" height="199" rx="6" fill="#0d1117" stroke="#30363d"/>
-<g transform="translate(0.00,13.33) scale(0.8889)">
+<rect x="0.5" y="0.5" width="399" height="179" rx="6" fill="#0d1117" stroke="#30363d"/>
+<g transform="translate(0.00,11.21) scale(0.8081)">
 
         <style>
             @keyframes currstreak {
