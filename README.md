@@ -12,20 +12,20 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/repowahyuillahi/itportal-react">
-    <img height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=repowahyuillahi&repo=itportal-react&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" alt="itportal-react — IT Portal CV Tjahaja Baru" />
-  </a>
   <a href="https://github.com/repowahyuillahi/wf-template">
-    <img height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=repowahyuillahi&repo=wf-template&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" alt="wf-template — our own design system" />
+    <img height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=repowahyuillahi&repo=wf-template&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" alt="wf-template — our own shadcn-style design system" />
+  </a>
+  <a href="https://github.com/repowahyuillahi/NetScopePro">
+    <img height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=repowahyuillahi&repo=NetScopePro&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" alt="NetScopePro — IPAM, network intelligence" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/repowahyuillahi/NetScopePro">
-    <img height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=repowahyuillahi&repo=NetScopePro&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" alt="NetScopePro — IPAM" />
+  <a href="https://github.com/repowahyuillahi/clock-update-windows-startup">
+    <img height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=repowahyuillahi&repo=clock-update-windows-startup&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" alt="clock-update-windows-startup — auto clock sync utility for IT support" />
   </a>
-  <a href="https://github.com/repowahyuillahi/absensi-solution">
-    <img height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=repowahyuillahi&repo=absensi-solution&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" alt="absensi-solution" />
+  <a href="https://github.com/repowahyuillahi/dockpal-update">
+    <img height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=repowahyuillahi&repo=dockpal-update&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" alt="dockpal-update" />
   </a>
 </div>
 
