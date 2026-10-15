@@ -15,7 +15,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/repowahyuillahi/wf-template">
-        <img width="390" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=repowahyuillahi&repo=wf-template&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" alt="wf-template — our own shadcn-style design system" />
+        <img width="390" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=repowahyuillahi&repo=wf-template&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true&cache_seconds=7200" alt="wf-template — our own shadcn-style design system" />
       </a>
     </td>
     <td align="center">
