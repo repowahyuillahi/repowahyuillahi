@@ -59,21 +59,12 @@
 
 ## 📊 Stats
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=repowahyuillahi&show_icons=true&hide_title=true&hide_rank=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=6" alt="github stats" />
-    </td>
-    <td align="center" valign="middle">
-      <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=repowahyuillahi&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=8b949e" alt="streak stats" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=repowahyuillahi&layout=compact&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&border_radius=6&hide_title=true" alt="top languages" />
-    </td>
-    <td align="center" valign="middle">
-      <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=repowahyuillahi&theme=github_dark" alt="profile details" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=repowahyuillahi&show_icons=true&hide_title=true&hide_rank=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=6" alt="github stats" />
+  <img height="150" src="https://github-readme-streak-stats-eight.vercel.app/?user=repowahyuillahi&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=8b949e" alt="streak stats" />
+</div>
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=repowahyuillahi&layout=compact&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&border_radius=6&hide_title=true" alt="top languages" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=repowahyuillahi&theme=github_dark" alt="profile details" />
+</div>
