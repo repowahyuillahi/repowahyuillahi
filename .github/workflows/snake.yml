@@ -24,4 +24,4 @@ jobs:
           build_dir: dist
           commit_message: "Generate contribution snake"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
