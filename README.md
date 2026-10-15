@@ -3,7 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=58A6FF&random=false&width=640&lines=%24+whoami+%3E+Wahyu+Illahi;IT+Support+by+day,+vibe+coder+by+night;can%27t+code,+just+AI)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=repowahyuillahi&style=flat-square&color=58a6ff&label=views" alt="views" />
-<img src="https://img.shields.io/github/followers/repowahyuillahi?style=flat-square&color=58a6ff&label=Followers" alt="followers" />
+<a href="https://instagram.com/wahyu.illahi"><img src="https://img.shields.io/badge/Instagram-wahyu.illahi-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.threads.net/@wahyu.illahi"><img src="https://img.shields.io/badge/Threads-wahyu.illahi-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads" /></a>
+<a href="https://wflabs.dev"><img src="https://img.shields.io/badge/Website-wflabs.dev-58a6ff?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
 
 </div>
 
