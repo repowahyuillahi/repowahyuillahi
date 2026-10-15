@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Wahyu+Illahi;Build.+Ship.+Scale.;Go+%26+Full-Stack+Engineer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=700&color=1F6FEB&center=true&vCenter=true&width=600&height=50&lines=Wahyu+Illahi;Build.+Ship.+Scale.;Go+%26+Full-Stack+Engineer" alt="Wahyu Illahi">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Wahyu+Illahi;Vibe+Coder;Build+with+AI">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=700&color=1F6FEB&center=true&vCenter=true&width=600&height=50&lines=Wahyu+Illahi;Vibe+Coder;Build+with+AI" alt="Wahyu Illahi">
   </picture>
 </p>
 
@@ -16,7 +16,7 @@
 
 ## About
 
-Full-stack engineer building **AI gateways**, **SaaS products**, and **admin platforms**. Go on the backend, React/Next.js on the front — shipped fast, runs cheap, serves hundreds of customers.
+Vibe coder shipping **AI gateways**, **SaaS products**, and **admin platforms** — real products, built with AI as my co-pilot. If it works and serves customers, it ships.
 
 ---
 
