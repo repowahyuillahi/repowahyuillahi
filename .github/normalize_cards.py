@@ -12,7 +12,7 @@ Fetches live SVGs unless CARDS_SRC_DIR is set (uses local *.svg files).
 """
 import os, re, sys, urllib.request
 
-TARGET_W, TARGET_H = 440, 200
+TARGET_W, TARGET_H = 400, 180
 BG_FILL = "#0d1117"
 BG_STROKE = "#30363d"
 BG_RX = 6
