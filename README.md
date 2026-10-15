@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=58A6FF&random=false&width=640&lines=%24+whoami+%3E+repowahyuillahi;IT+Support+by+day,+vibe+coder+by+night;can%27t+code,+just+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=58A6FF&random=false&width=640&lines=%24+whoami+%3E+Wahyu+Illahi;IT+Support+by+day,+vibe+coder+by+night;can%27t+code,+just+AI)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=repowahyuillahi&style=flat-square&color=58a6ff&label=views" alt="views" />
 <img src="https://img.shields.io/github/followers/repowahyuillahi?style=flat-square&color=58a6ff&label=Followers" alt="followers" />
