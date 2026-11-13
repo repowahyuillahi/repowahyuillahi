@@ -17,24 +17,24 @@
   <tr>
     <td align="center">
       <a href="https://github.com/repowahyuillahi/wf-template">
-        <img width="390" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=repowahyuillahi&repo=wf-template&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true&cache_seconds=7200" alt="wf-template — our own shadcn-style design system" />
+        <img width="390" src="https://raw.githubusercontent.com/repowahyuillahi/repowahyuillahi/main/assets/pin-wf-template.svg" alt="wf-template — our own shadcn-style design system" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/repowahyuillahi/dockpal-update">
-        <img width="390" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=repowahyuillahi&repo=dockpal-update&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" alt="dockpal-update" />
+        <img width="390" src="https://raw.githubusercontent.com/repowahyuillahi/repowahyuillahi/main/assets/pin-dockpal-update.svg" alt="dockpal-update" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/repowahyuillahi/clock-update-windows-startup">
-        <img width="390" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=repowahyuillahi&repo=clock-update-windows-startup&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" alt="clock-update-windows-startup — auto clock sync utility for IT support" />
+        <img width="390" src="https://raw.githubusercontent.com/repowahyuillahi/repowahyuillahi/main/assets/pin-clock-update-windows-startup.svg" alt="clock-update-windows-startup — auto clock sync utility for IT support" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/repowahyuillahi/NetScopePro">
-        <img width="390" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=repowahyuillahi&repo=NetScopePro&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" alt="NetScopePro — IPAM, network intelligence" />
+        <img width="390" src="https://raw.githubusercontent.com/repowahyuillahi/repowahyuillahi/main/assets/pin-NetScopePro.svg" alt="NetScopePro — IPAM, network intelligence" />
       </a>
     </td>
   </tr>
