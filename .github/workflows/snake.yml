@@ -20,6 +20,9 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      - name: Fix dist ownership (snake step runs as root in Docker)
+        run: sudo chown -R "$USER" dist
+
       - name: Generate normalized stat cards
         run: python3 .github/normalize_cards.py dist
 
